@@ -1,0 +1,7 @@
+PySchool Analysis
+
+
+Several things of note from the results:
+	1. The school with the highest Overall Passing rate was in the lowest five schools of per student spending.  In fact the schools that spent the most per student had the lowest scores across the board in Reading and Math.  
+	2. Charter schools outperformed District schools in every test measure, in fact no District school was within 10 percentage points of the lowest Charter school passing rate, for any of the three percentages examined.  
+	3. School size shows the a negative correlation between size and passing rate where the largest schools were far behind the Small and Medium Schools.  That these largest schools also had the highest per student budget is indicative of the fact that school (and likely effectively classroom) size has more to do with success than the dollars spent per student.
